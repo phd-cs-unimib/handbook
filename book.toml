@@ -1,0 +1,7 @@
+[book]
+title = "PhD in Computer Science — Administration Handbook"
+authors = ["UNIMIB"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/phd-cs-unimib/handbook"
