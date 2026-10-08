@@ -40,8 +40,28 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-recommended texlive-fonts-recommended lmodern
+      - name: Compute revision date
+        run: echo "REVISION=$(TZ=UTC git log -1 --format=%cd --date=format-local:'%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
+      - name: Build PDF of the whole handbook
+        run: |
+          files=$(grep -o '([^)]*\.md)' src/SUMMARY.md | tr -d '()' | sed 's|^|src/|')
+          pandoc $files \
+            --from gfm --pdf-engine=xelatex --toc \
+            --metadata title="$(grep '^title' book.toml | cut -d'"' -f2)" \
+            --metadata date="Last revision: ${REVISION}" \
+            -V geometry:margin=2.5cm -V colorlinks=true \
+            -o handbook.pdf
+      - name: Add PDF link and revision date to home page
+        run: |
+          printf '\n---\n\n[Download the whole handbook as PDF](handbook.pdf)\n\nLast revision: %s\n' "$REVISION" >> src/general-information.md
       - name: Build with mdBook
-        run: mdbook build
+        run: |
+          mdbook build
+          mv handbook.pdf book/handbook.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
