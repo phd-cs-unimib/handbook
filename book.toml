@@ -5,3 +5,4 @@ language = "en"
 
 [output.html]
 git-repository-url = "https://github.com/phd-cs-unimib/handbook"
+edit-url-template = "https://github.com/phd-cs-unimib/handbook/edit/main/{path}"

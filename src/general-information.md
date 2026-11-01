@@ -1,5 +1,5 @@
 # General Information
 
-If anything is unclear or incomplete, add a comment. If possible, suggest an alternative sentence or paragraph that improves the text.
+If anything is unclear or incomplete, [open an issue](https://github.com/phd-cs-unimib/handbook/issues) or use the edit button at the top of each page to propose a change. If possible, suggest an alternative sentence or paragraph that improves the text.
 
-[Avvisi](https://elearning.unimib.it/mod/forum/view.php?id=668384)
+This handbook describes the rules governing the PhD program in Computer Science. It does not describe what is in the University handbook.
