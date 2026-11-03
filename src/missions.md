@@ -3,7 +3,7 @@
 Any time you travel to attend a conference, for a research meeting, or for your period abroad, it is called a
 mission. Each mission must be approved by the PhD director. You must use the [dedicated
 form](https://forms.gle/YEsRWyUU6QSPKBbGA) to obtain such approval at least 2 weeks in advance. This is always the
-first step you have to take.
+first step you have to take. If the mission is for your [period abroad](period-abroad.md), the period abroad must also be approved with its own form.
 
 Missions are usually paid with your [research budget](research-budget.md). Up to one yearly amount of the research budget (about €1,620) can also be used for accommodation during your period abroad, provided the stay lasts more than 6 months in total.
 
@@ -113,8 +113,11 @@ To have the University pay for your travel and accommodation, first complete ste
 
 Ask the department's [accounting office](https://www.unimib.it/ugov/organizationunit/420591) for the **prior authorization form** and fill in all its sections:
 
-- _Flights_: departure date and time, departure and arrival airports, price, whether you need checked luggage, link to the airline website and screenshots of the selected flights, both outbound and return. Provide the same information for train or ferry tickets, if applicable.
-- _Hotel_: check-in and check-out dates, link to the website where you found the accommodation, and a screenshot of the selected option.
+- _Flights_: departure date and time, departure and arrival airports, price, whether you need checked luggage, link
+  to the airline website and screenshots of the selected flights, both outbound and return. Provide the same
+  information for train or ferry tickets, if applicable.
+- _Hotel_: check-in and check-out dates, link to the website where you found the accommodation, and a screenshot of
+  the selected option.
 - Your personal details, the location and name of the conference, the link to the event, and the mission number.
 
 #### Step 8: submit the purchase request
@@ -130,14 +133,27 @@ The travel agency will contact you for the next steps, and to send you the ticke
 
 ## After the mission
 
-After the completion of the mission, use the same UWeb system to request the reimbursement of your expenses. The sooner you submit your request, the sooner you will be reimbursed.
+After the completion of the mission, use the same UWeb system to request the reimbursement of your expenses. The
+sooner you submit your request, the sooner you will be reimbursed.
 
-- You need **acceptable evidence** for each expense (e.g., clear and fiscally valid receipts). The PhD director and the Head of the Department authorize the mission, but they do not decide which expenses are reimbursed: the University mission office does. The list of eligible expenses can be found in the _Mission rules_ ([_Regolamento Missioni_](https://www.unimib.it/sites/default/files/allegati/regolamentomissionien.pdf)).
-- Upload the **certificate of attendance** into UWeb. Otherwise the office has to verify your participation manually, which can significantly delay your reimbursement.
-- For archival purposes, send the department's [research support office](https://www.unimib.it/ugov/organizationunit/420592) the summary sheet of expenses and all supporting documents uploaded to the portal: tickets, receipts, authorization, expense reports, invitation emails, certificate of attendance, registration fees, etc.
+- You need **acceptable evidence** for each expense (e.g., clear and fiscally valid receipts). The PhD director and
+  the Head of the Department authorize the mission, but they do not decide which expenses are reimbursed: the
+  University mission office does. The list of eligible expenses can be found in the _Mission rules_ ([_Regolamento
+  Missioni_](https://www.unimib.it/sites/default/files/allegati/regolamentomissionien.pdf)).
+- Upload the **certificate of attendance** into UWeb. Otherwise the office has to verify your participation
+  manually, which can significantly delay your reimbursement.
+- For archival purposes, send the department's [research support
+  office](https://www.unimib.it/ugov/organizationunit/420592) the summary sheet of expenses and all supporting
+  documents uploaded to the portal: tickets, receipts, authorization, expense reports, invitation emails, certificate
+  of attendance, registration fees, etc.
 
-We strongly recommend keeping a single file that tracks, for each mission, the amount requested, the amount still to be reimbursed, and the amount actually credited to your bank account, together with the remaining balance of your research budget. Share it periodically with the PhD director: it makes it easy to check the status of each reimbursement and to keep your budget up to date.
+We strongly recommend keeping a single file that tracks, for each mission, the amount requested, the amount still to
+be reimbursed, and the amount actually credited to your bank account, together with the remaining balance of your
+research budget. Share it periodically with the PhD director: it makes it easy to check the status of each
+reimbursement and to keep your budget up to date.
 
-For problems and doubts, contact the PhD director. Senior PhD students and the PhD student representatives have already been through this process, and can give you useful tips, especially on which expenses might not be reimbursed. In particular cases, you can also write to <assistenzamissioniweb@unimib.it>.
+For problems and doubts, contact the PhD director. Senior PhD students and the PhD student representatives have
+already been through this process, and can give you useful tips, especially on which expenses might not be
+reimbursed. In particular cases, you can also write to <assistenzamissioniweb@unimib.it>.
 
 The contacts of the department offices can be found in the [University organization chart](https://www.unimib.it/ateneo/organizzazione/organigramma).
