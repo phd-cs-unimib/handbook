@@ -152,6 +152,34 @@ be reimbursed, and the amount actually credited to your bank account, together w
 research budget. Share it periodically with the PhD director: it makes it easy to check the status of each
 reimbursement and to keep your budget up to date.
 
+## Paper missions
+
+Some missions are handled with a paper form, the [mission form](files/mission-form.pdf) (“Incarico di missione”), instead of UWeb.
+The most common cases are a mission within a mission (you attend a conference during your period abroad) or you want
+to use your research budget in the last few months of your PhD, just before graduating.
+
+Before the mission:
+
+1. At least **one week** before the mission, fill in section A (“Quadro A”) of the form with your details, the
+   destination, a detailed reason for the mission, the dates and the means of transport. Leave the mission number
+   and the signature blank: the mission number is assigned by the department office, and the signature belongs to
+   the head of project (the PhD director). Always attach a document describing the event, such as the conference
+   flyer or program.
+2. The head of project tells the department office the code of the project that will pay for the mission.
+3. When the office receives the form, it assigns the mission number and has the form signed by the Head of the
+   Department.
+
+After the mission:
+
+1. Fill in the remaining sections of the form: the departure and arrival dates and times (section C), and the list
+   of travel expenses (“Spese di viaggio”).
+2. Hand in the form together with the **originals** of all receipts and supporting documents for your expenses, and
+   the certificate of attendance.
+
+The [mission rules](https://www.unimib.it/sites/default/files/allegati/regolamentomissionien.pdf) also apply to
+paper missions. The last two pages of the rules summarize the reimbursable expenses, their maximum amounts, and who
+is entitled to a reimbursement.
+
 For problems and doubts, contact the PhD director. Senior PhD students and the PhD student representatives have
 already been through this process, and can give you useful tips, especially on which expenses might not be
 reimbursed. In particular cases, you can also write to <assistenzamissioniweb@unimib.it>.
