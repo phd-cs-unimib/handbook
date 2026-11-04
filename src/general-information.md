@@ -6,3 +6,7 @@ that improves the text.
 
 This handbook describes the rules governing the PhD program in Computer Science. It does not describe what is
 already in the University handbook.
+
+You will need the approval by the PhD director or the PhD board for several activities. Use the forms listed at
+[https://phd-computer-science.disco.unimib.it/enrolled/](https://phd-computer-science.disco.unimib.it/enrolled/) to
+send the documents and detail your request.
